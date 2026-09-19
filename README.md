@@ -48,7 +48,7 @@ api-inspector/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/api-inspector.git
+git clone https://github.com/syedrasimali/api-inspector.git
 ```
 
 Open the project folder:
