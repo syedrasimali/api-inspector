@@ -4,7 +4,7 @@ A free, lightweight API testing and JSON inspection tool for developers.
 
 ## 🚀 Live Demo
 
-[https://YOUR-DOMAIN.vercel.app](https://YOUR-DOMAIN.vercel.app)
+[https://api-inspector-tool.vercel.app](https://api-inspector-tool.vercel.app/)
 
 ## 📌 About
 
