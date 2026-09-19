@@ -55,6 +55,7 @@ html {
 }
 
 body {
+    overflow-x: hidden;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -179,7 +180,7 @@ body {
 .top-ad-container,
 .bottom-ad-container {
     width: 100%;
-    max-width: 900px;
+    max-width: 728px;
     min-height: 90px;
     margin: 0 auto;
     padding: 12px 20px;
